@@ -5,5 +5,5 @@
 @echo Opening Crypto Hasher...
 @echo off
 cd %CD%
-java -jar CryptoHashGenerator.jar
+java -jar FinishedProject.jar
 EXIT /B
